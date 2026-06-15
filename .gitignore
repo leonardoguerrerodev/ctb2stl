@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary layer extraction directories created during conversion
+/tmp/ctb_layers_*/
+
+# Input and output files (large binaries, not meant to be versioned)
+*.ctb
+*.stl
+
+# Local environment variables
+.env
